@@ -20,6 +20,6 @@ Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/amandamurray2021/fundamentals-of-data-analysis/HEAD)
 
 ## How to run the notebook
-1. Download Anaconda.
-2. Download cmder if on Windows.
+1. Download [Anaconda]().
+2. Download [cmder]() if on Windows.
 3. Run 'Jupyter Lab'.
